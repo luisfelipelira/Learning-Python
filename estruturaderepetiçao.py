@@ -14,7 +14,7 @@ while condicao != 0:
         else:
             print('O total de pessoas do sexo feminino  : {}'.format(mulher))
             print('O total de pessoas do sexo masculino : {}'.format(homem))
-            print('O total de pessoas do inteiro grupo  : {}'.format(total))
+            print('O total de pessoas do inteiro grupo  : {}'.format(total-1))
             exit()
 
     else:
